@@ -1,6 +1,9 @@
-## Choose your alphabet:
-
+### Navigate by Letter:
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ K ](#k) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ Q ](#q) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w) | [ X ](#x) | [ Y ](#y) | [ Z ](#z) |
+
+[ff]( ff )
+[gg](gg)
+[jj](jj)
 
 # A
  - [AWS](https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
@@ -11,7 +14,6 @@
 # B
 
 # C
-## C2
 
 # D
  - [Docker](https://www.docker.com/) - Package an application with all of its dependencies into a standardized unit for software development. Build, Ship, Run.
@@ -24,6 +26,7 @@
  - [Git](https://git-scm.com/) - An awesome tool to version your source code and collaborate.
 
 # H
+# ff
 
 # I
 
@@ -36,6 +39,8 @@
  
 # M
  
+ 
+# gg
 # N
  
 # O
@@ -53,6 +58,8 @@
  - [Terraform](https://www.terraform.io/) - A tool used in building, changing, and versioning the infrastructure across platforms.
 
 # U
+
+### jj
 
 # V
  
