@@ -1,42 +1,79 @@
-## Welcome to GitHub Pages
+## Choose your alphabet:
 
-You can use the [editor on GitHub](https://github.com/LifeatMach/Glossary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ K ](#k) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ Q ](#q) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w) | [ X ](#x) | [ Y ](#y) | [ Z ](#z) |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# A
+ - [AWS](https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
+ - [Ansible](http://www.ansible.com/) - An agent-less orchestration engine that can automate application and systems.
+ - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
+ - [Awsbox](http://awsbox.org/) - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
 
-#TEST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# B
 
-### Markdown
+# C
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# D
+ - [Docker](https://www.docker.com/) - Package an application with all of its dependencies into a standardized unit for software development. Build, Ship, Run.
 
-```markdown
+# E
 
-TEST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# F
 
-Syntax highlighted code block
+# G
+ - [Git](https://git-scm.com/) - An awesome tool to version your source code and collaborate.
 
-# Header 1
-## Header 2
-### Header 3
+# H
 
-- Bulleted
-- List
+# I
 
-1. Numbered
-2. List
+# J
+ - [Jenkins](https://jenkins-ci.org/) - It is an open-source, lightweight CI tool written in Java, with high extensibility and a fast release cycle.
 
-**Bold** and _Italic_ and `Code` text
+# K
 
-[Link](url) and ![Image](src)
-```
+# L
+ 
+# M
+ 
+# N
+ 
+# O
+ - [Openstack](https://www.openstack.org/) - An open source, massively salable cloud operating system used for building private & public cloud.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# P
+ 
+# Q
 
-### Jekyll Themes
+# R
+ 
+# S
+ 
+# T
+ - [Terraform](https://www.terraform.io/) - A tool used in building, changing, and versioning the infrastructure across platforms.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LifeatMach/Glossary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# U
 
-### Support or Contact
+# V
+ 
+# W
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# X
+
+# Y
+
+# Z
+
+
+## Contributing:
+
+Contributions are welcome!
+
+This repo is just getting started, please contribute to make it super fun.
+
+Check out the [Contributing Guidelines](https://github.com/theremotelab/devops-glossary/blob/master/CONTRIBUTING.md).
+
+## License:
+
+devops-glossary by The Remote Lab is licensed under the Apache 2.0 License.
+
+See the [License](https://github.com/TheRemoteLab/devops-glossary/blob/master/LICENSE) for more info.
