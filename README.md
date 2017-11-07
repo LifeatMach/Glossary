@@ -12,15 +12,21 @@ Press "Crtl + F" to launch your browser search dialogue.
 ----------------------
 # A
  - [AWS](https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
- - [Ansible](http://www.ansible.com/) - An agent-less orchestration engine that can automate application and systems.
+ - [Ansible](http://www.ansible.com/) - An agentless orchestration engine that can automate application and systems.
  - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
  - [Awsbox](http://awsbox.org/) - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
  - AMI - Amazon Machine Image
+ - aaS - as a Service
 
 # B
+ - Bucket
+ - LEAP (BPS LEAP) - WS 11 (APA?)
+ - BOOMI 
+
 
 # C
-
+ - CAF - Cloud adoption framework
+ 
 # D
  - DevOps - 'Development and Operations'
  - DevSecOps - 'Development, Security, and Operations'
@@ -45,6 +51,7 @@ Press "Crtl + F" to launch your browser search dialogue.
 # K
 
 # L
+ - LAMBDA
 
 # M
 
@@ -63,14 +70,17 @@ Press "Crtl + F" to launch your browser search dialogue.
  - [RI](https://blog.cloudability.com/aws-101-reserved-instances/) - 'Reserved Instance' (AWS) is a reservation of resources and capacity, for either one or three years, for a particular Availability Zone within a region.
 
 # S
-
+ - Slack
+ 
 # T
  - [Terraform](https://www.terraform.io/) - A tool used in building, changing, and versioning the infrastructure across platforms.
 
 # U
 
 # V
-
+ - VPC - Virtual Private Cloud
+ - VTL - 
+ 
 # W
 
 # X
